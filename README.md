@@ -29,6 +29,6 @@ Para rodar o projeto, siga os passos abaixo:
     npm run start
      ```
 
-### Contribuição
+## Contribuição
 
 Se você quiser contribuir com o projeto, sinta-se à vontade para fazer um fork do repositório, criar uma nova branch, fazer suas alterações e enviar um pull request.
