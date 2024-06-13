@@ -21,4 +21,14 @@ Para rodar o projeto, siga os passos abaixo:
 
 3. Configuração das variáveis de ambiente:
 
-   Renomeie o arquivo `.env.example` para `.env` e configure as variáveis de ambiente necessárias no arquivo `.env`.
+   Renomeie o arquivo `.env.example` para `.env` e configure as variáveis de ambiente necessárias no arquivo `.env`. Caso você não sete as variáveis do nodemailer o código NÃO funcionará corretamente, portanto você deve preencher ou comentar a seção de código que faz o envio do email após o cadastro no banco. Você pode usar as seguintes credenciais TEMPORÁRIAS apenas para facilitar, o email é: ```angeloroyale14@gmail.com``` e a senha você pode usar ```ygimmnwblekincwb```. Não se preocupe, essas credenciais não são para logar na minha conta.
+
+4. Agora você pode iniciar o servidor de desenvolvimento.
+
+    ```sh
+    npm run start
+     ```
+
+### Contribuição
+
+Se você quiser contribuir com o projeto, sinta-se à vontade para fazer um fork do repositório, criar uma nova branch, fazer suas alterações e enviar um pull request.
